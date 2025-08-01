@@ -2,7 +2,7 @@
 A deep dive into analysing the financial health of the Ashcash Bank 
 # 📊 Bank Business Financial Health Report
 **📅 As of 05:58 PM EAT, August 01, 2025**
-
+Interact with the report here: [Bank Analysis Report](https://app.powerbi.com/groups/me/reports/6c103c8a-9992-4cc9-bbb2-81d70e9cc16f/75ad8b8713033e563638?experience=power-bi))
 ---
 
 ## 🧾 Overview
